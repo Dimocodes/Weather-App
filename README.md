@@ -1,5 +1,10 @@
 **Weather App**
 
+**Awoniyi Ademola
+ALT/SOE/BAR/026/0224**
+
+**Description**
+
 A responsive Weather Application built with HTML, CSS, and JavaScript that allows users to search for any city and view current weather conditions along with a 5-day forecast.
 
 Features include;
